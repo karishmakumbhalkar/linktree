@@ -1,0 +1,12 @@
+.container{
+  border: 1px solid black;
+  margin: 50px;
+  background-color: #FF9A8B;
+  background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+  border-radius: 20px;
+}
+
+.app-title{
+  text-align: center;
+  text-shadow: #FF6A88;
+}
